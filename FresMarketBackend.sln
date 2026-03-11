@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FresMarket.UserService", "FresMarket.UserService\FresMarket.UserService.csproj", "{B747F777-F01E-42B9-BD33-1A4DD4E92094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshMarket.ProductService", "FreshMarket.ProductService\FreshMarket.ProductService.csproj", "{37E37F65-C4E7-4E1E-BED1-2D7610517CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshMarket.OrderService", "FreshMarket.OrderService\FreshMarket.OrderService.csproj", "{71452A9B-A66E-4ECF-B523-D80E035095A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B747F777-F01E-42B9-BD33-1A4DD4E92094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B747F777-F01E-42B9-BD33-1A4DD4E92094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B747F777-F01E-42B9-BD33-1A4DD4E92094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B747F777-F01E-42B9-BD33-1A4DD4E92094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E37F65-C4E7-4E1E-BED1-2D7610517CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E37F65-C4E7-4E1E-BED1-2D7610517CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E37F65-C4E7-4E1E-BED1-2D7610517CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E37F65-C4E7-4E1E-BED1-2D7610517CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71452A9B-A66E-4ECF-B523-D80E035095A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71452A9B-A66E-4ECF-B523-D80E035095A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71452A9B-A66E-4ECF-B523-D80E035095A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71452A9B-A66E-4ECF-B523-D80E035095A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
