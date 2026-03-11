@@ -142,8 +142,8 @@ FresMarketBackend/
 
 | Servicio | HTTPS | HTTP | Base de Datos |
 |----------|-------|------|---------------|
-| UserService | 5001 | - | FreshMarketUsers |
-| ProductService | 5003 | 5004 | FreshMarketUsers_Dev |
+| UserService | 5001 | - | FreshMarketDB |
+| ProductService | 5003 | 5004 | FreshMarketDB |
 | OrderService | 5002 | 5007 | FreshMarketDB |
 
 ---
